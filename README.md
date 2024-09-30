@@ -1,4 +1,4 @@
-# Jenkins-Zero-To-Hero
+# Jenkins-from nothing-To-Expert
 
 Are you looking forward to learn Jenkins right from Zero(installation) to Hero(Build end to end pipelines)? then you are at the right place. 
 
